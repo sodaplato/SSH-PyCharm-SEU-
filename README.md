@@ -1,5 +1,4 @@
-<img width="1908" height="868" alt="Pasted image 20260419151005" src="https://github.com/user-attachments/assets/5f9bf2cc-3e00-4562-8805-0764dae5ddfb" /># SSH-PyCharm-SEU-
-SSH如何将PyCharm与SEU大数据中心进行连接
+**PyCharm-SEU-SSH如何将PyCharm与SEU大数据中心进行连接**
 # 目的
 将PyCharm上编写好的代码直接学校的卡上
 # 文档基础
