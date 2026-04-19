@@ -32,8 +32,9 @@
 8. 创建即可
 # 如何自定义选择学校卡用来同步文件的文件夹
 1. 一开始同步的时候，总是会同步到一个tmpt文件夹之后，这样会导致运行的时候选择文件夹的时候存在问题，有点麻烦
-2. 点击工具、部署 、配置、映射，将部署路径填为 "/ "即可（前提是根路径要设置好路径）<img width="1900" height="990" alt="Pasted image 20260419152927" src="https://github.com/user-attachments/assets/d4ae0abd-4b9b-40eb-8bd9-160c09adeecd" />
+2. 点击工具、部署 、配置、映射，将部署路径填为 "/ "即可（前提是根路径要设置好路径）
 <img width="1900" height="990" alt="image" src="https://github.com/user-attachments/assets/5806c597-1f2e-426c-aa1c-66c90a720598" />
+<img width="985" height="337" alt="image" src="https://github.com/user-attachments/assets/76e80cb6-8c26-4051-b810-c640dd5f57c8" />
 <img width="962" height="832" alt="image" src="https://github.com/user-attachments/assets/9e5c882c-e61f-46ae-b1a8-895f86cd2025" />
 
 
