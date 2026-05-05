@@ -36,5 +36,6 @@
 <img width="1900" height="990" alt="image" src="https://github.com/user-attachments/assets/5806c597-1f2e-426c-aa1c-66c90a720598" />
 <img width="985" height="337" alt="image" src="https://github.com/user-attachments/assets/76e80cb6-8c26-4051-b810-c640dd5f57c8" />
 <img width="962" height="832" alt="image" src="https://github.com/user-attachments/assets/9e5c882c-e61f-46ae-b1a8-895f86cd2025" />
-
+# 后续
+如果想要通过SFTP在Cursor或VScode上进行链接，会遇到一个要求输入密码的操作，这里如果去问大模型，他会告诉你是你的访问集群的登录密码，但是并不是这样，而是输入你的ssh中的isa密码
 
